@@ -1,4 +1,5 @@
 
-<iframe width="853" height="480" src="https://www.youtube.com/embed/Z-m7jdfTLvc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+https://img.youtube.com/vi/Z-m7jdfTLvc/0.jpg)](https://www.youtube.com/watch?v=Z-m7jdfTLvc
 
 (https://github.com/khanasif786/led_mat_snake/blob/main/images/led_matrix_pinout.jpg?raw=true)
